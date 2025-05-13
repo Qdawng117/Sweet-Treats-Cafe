@@ -5,7 +5,7 @@ Dưới đây là file `README.md` hoàn chỉnh dành cho dự án **Sweet Trea
 ---
 
 ```markdown
-# 🧁 Sweet Treats Café (hoặc Sugar Rush Bakery)
+# 🧁 Sweet Treats Café 
 
 ## 🎯 Mục Tiêu
 
@@ -54,7 +54,7 @@ Sweet Treats Café là nền tảng đặt bánh, cà phê và đồ ngọt tr�
 ## ⚙️ Cấu Trúc Thư Mục
 
 ### Frontend (`frontend/`)
-```
+```bash
 
 frontend/
 ├── public/
@@ -74,7 +74,7 @@ frontend/
 ```
 
 ### Backend (`backend/`)
-```
+```bash
 
 backend/
 ├── controllers/
