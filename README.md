@@ -52,10 +52,10 @@ Sweet Treats Café là nền tảng đặt bánh, cà phê và đồ ngọt tr�
 - **JWT**: Xác thực người dùng.
 
 ## ⚙️ Cấu Trúc Thư Mục
+```
 
 ### Frontend (`frontend/`)
 ```bash
-
 frontend/
 ├── public/
 ├── src/
