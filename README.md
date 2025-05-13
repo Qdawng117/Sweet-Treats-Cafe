@@ -147,7 +147,3 @@ npm run dev
 
 ```
 
----
-
-Bạn có muốn mình tạo file này và xuất ra tệp `.md` để tải xuống không?
-```
